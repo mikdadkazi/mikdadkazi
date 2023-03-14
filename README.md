@@ -1,8 +1,5 @@
-👋 Hi, I’m Mikdad Kazi
-I'm a professional WordPress Developer with Elementor Pro Skillset for most types of website design.
-I'm currently studing C.S.E at Sylhet International University. I'm aspiring to be an succesfull developer.
-I hope you'll provide me with feedback for my projects
+👋 Hi, I'm Mikdad Kazi! I'm a professional web designer and developer with a focus on WordPress development and Elementor Pro. I have a wide range of skill sets in most types of website design, including e-commerce, blogs, portfolios, and more. My goal is to become a successful developer and continue creating innovative solutions for my clients.
 
-You can contact me via Email: mikdadkazi.wp@gmail.com
+I'm passionate about open source technologies and believe in the power of collaboration and knowledge sharing. I welcome feedback on my projects and am always looking for ways to improve my coding skills and knowledge.
 
-Check out my Website at: http://mikdadkazi.com/
+Feel free to contact me via email at mikdadkazi.wp@gmail.com or visit my website at http://mikdadkazi.com/ to learn more about my work and experience.
